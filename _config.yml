@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Martinez - Blog"
+title                    : "Joey Henkel - Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "David Martinez"
+name                     : "Joey Henkel"
 description              : "Personal Blog"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://joeyhenkel.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : dmart7500
+  username               : joey_henkel
 facebook:
   username               :
   app_id                 :
@@ -107,49 +107,49 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Martinez"
+  name             : "Joey Henkel"
   avatar           : https://avatars0.githubusercontent.com/u/5718250?s=460&v=4
   bio              : "Infosec student, Aspiring Red Teamer, OSINT junkie, Spends far too long in front of computers"
-  location         : "Miami, FL"
+  location         : ""
   email            : dmartinez7500@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:dmartinez7500@gmail.com
+      # url: mailto:email@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dmart7500"
+      url: "https://twitter.com/joey_henkel"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dm7500"
+      url: "https://github.com/joeyhenkel"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Hack The Box"
       icon: "fas fa-cube"
-      url: "https://www.hackthebox.eu/home/users/profile/125657"
+      url: "https://www.hackthebox.eu/home/users/profile/xxxx"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/dm7500/"
+      url: "https://www.linkedin.com/in/josephhenkel/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dmart7500"
+      url: "https://twitter.com/joey_henkel"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dm7500"
+      url: "https://github.com/joeyhenkel"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
