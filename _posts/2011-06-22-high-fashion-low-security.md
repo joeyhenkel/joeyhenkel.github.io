@@ -1,6 +1,6 @@
 ---
 title: "High Fashion, Low Security"
-published: true
+published: false
 ---
 
 >NOTE: This post was originally made on June 22, 2011, in a unedited form. After discussions with law enforcement, I have redacted the content, and reposted it here for archiving.

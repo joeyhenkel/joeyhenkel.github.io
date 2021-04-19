@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "Exploiting IIS WebDAV and MS14-058 (with MSF)"
 picture: /assets/htb-grandpa/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-grandpa/machine_info.png)

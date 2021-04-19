@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "LFI on ColdFusion, malicious JSP payload, and JuicyPotato"
 picture: /assets/htb-arctic/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-arctic/machine_info.png)

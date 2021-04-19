@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "DNS ZT, SQLi, and playing with cron"
 picture: /assets/htb-cronos/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-cronos/machine_info.png)

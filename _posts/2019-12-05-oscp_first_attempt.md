@@ -1,6 +1,6 @@
 ---
 title: "OSCP Exam - First Attempt"
-published: true
+published: false
 ---
 
 So, my first attempt at the OSCP exam has come and gone. Honestly, it was a crash and burn. I really thought I was prepared, and ready to knock it out.

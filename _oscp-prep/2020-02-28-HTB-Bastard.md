@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "Drupal RCE, and JuicyPotato"
 picture: /assets/htb-bastard/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-bastard/machine_info.png)

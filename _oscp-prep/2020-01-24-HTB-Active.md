@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "Active Directory Kerboroasting"
 picture: /assets/htb-active/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-active/machine_info.png)

@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "Exploiting Magento and vi"
 picture: /assets/htb-swagshop/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-swagshop/machine_info.png)

@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "Running ASPX code in web.config, and JuicyPotato"
 picture: /assets/htb-bounty/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-bounty/machine_info.png)

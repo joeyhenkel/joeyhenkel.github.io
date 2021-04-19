@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "Playing with Shellshock"
 picture: /assets/htb-shocker/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-shocker/machine_info.png)

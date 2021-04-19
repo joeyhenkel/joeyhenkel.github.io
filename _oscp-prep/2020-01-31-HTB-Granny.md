@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "Exploiting IIS WebDAV and Token Kidnapping (no MSF)"
 picture: /assets/htb-granny/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 > NOTE: This write-up is part of a set, with the other being [Grandpa](https://dm7500.github.io/oscp-prep/2020-01-30-HTB-Grandpa/). Since the boxes are so similar, but the easy way to root is via Metasploit, I decided to do one with MSF, and one without. Grandpa will be done with Metaspliot, and Granny done without Metasploit, in order to better practice for the OSCP.

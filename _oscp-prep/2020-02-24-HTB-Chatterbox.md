@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "Customizing shellcode, and password reuse in Powershell"
 picture: /assets/htb-chatterbox/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-chatterbox/machine_info.png)

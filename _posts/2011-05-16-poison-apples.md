@@ -1,6 +1,6 @@
 ---
 title: "Poison Apples: Physical Media Social Engineering"
-published: true
+published: false
 ---
 
 >NOTE: This presentation was submitted, and accepted to DEFCON 18 in 2010. However, due to financial constraints, I was unable to attend. It's been posted here for archiving.

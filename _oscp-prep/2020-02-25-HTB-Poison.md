@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "LFI, SSH port forwarding, and VNC"
 picture: /assets/htb-poison/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-poison/machine_info.png)

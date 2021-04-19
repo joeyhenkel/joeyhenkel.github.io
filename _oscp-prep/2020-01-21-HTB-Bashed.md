@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "Custom webshell and bash terminal"
 picture: /assets/htb-bashed/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-bashed/machine_info.png)

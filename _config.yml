@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Joey Henkel - Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Joey Henkel Test"
+name                     : "Joey Henkel"
 description              : "Personal Blog"
 url                      : "https://joeyhenkel.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Joey Henkel"
-  avatar           : https://avatars0.githubusercontent.com/u/5718250?s=460&v=4
+  avatar           : /assets/images/Joey.JPG
   bio              : "Infosec student, Aspiring Red Teamer, OSINT junkie, Spends far too long in front of computers"
   location         : ""
   email            : dmartinez7500@gmail.com

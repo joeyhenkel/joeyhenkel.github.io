@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "Exploiting HFS, and MS16-135 via PowerShell"
 picture: /assets/htb-optimum/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-optimum/machine_info.png)

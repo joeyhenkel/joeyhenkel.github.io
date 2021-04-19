@@ -10,7 +10,7 @@ toc: true
 toc_label: Table of Contents
 headline: "Jenkins Groovy script, KeePass DB cracking, and Alternate Data Streams"
 picture: /assets/htb-jeeves/machine_info.png
-author_profile: true
+author_profile: false
 ---
 
 ![](/assets/htb-jeeves/machine_info.png)
