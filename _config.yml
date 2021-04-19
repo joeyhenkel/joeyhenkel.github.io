@@ -111,7 +111,7 @@ author:
   avatar           : /assets/images/Joey.JPG
   bio              : "Infosec student, Aspiring Red Teamer, OSINT junkie, Spends far too long in front of computers"
   location         : ""
-  email            : dmartinez7500@gmail.com
+  email            : #email@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
