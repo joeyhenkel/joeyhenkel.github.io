@@ -110,7 +110,7 @@ author:
   name             : "Joey Henkel"
   avatar           : /assets/images/Joey.JPG
   bio              : "Network & Web Penetration Tester."
-  location         : ""
+  location         : # ""
   email            : #email@gmail.com
   links:
     - label: "Email"
