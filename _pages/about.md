@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: single
 title: "About"
 permalink: "/about/"
 entries_layout: grid
