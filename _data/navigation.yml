@@ -1,5 +1,7 @@
 # main links
 main:
+- title: "Home" #"OSCP Prep"
+    url: https://joeyhenkel.github.io #/oscp-prep
   - title: "About" #"OSCP Prep"
     url: /about #/oscp-prep
   # - title: "About"
