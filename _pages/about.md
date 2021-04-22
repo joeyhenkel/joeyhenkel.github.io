@@ -5,7 +5,7 @@ permalink: "/about/"
 published: true
 ---
 
-Network & Web Penetration Tester with ten plus years career experience, with roles as a Security Engineer (supporting the architecture designed, day to day health, and subject matter expert for a variety of security soltuions), Security Analyst (configuring, reviewing, and responding to alerts, analyzing logs, incident escalation, and overall day to day security activities) within the Financial Service and Software Service industries.
+Currently my role is a Network & Web Penetration Tester with ten plus years career experience, with roles as a Security Engineer (supporting the architecture designed, day to day health, and subject matter expert for a variety of security soltuions), Security Analyst (configuring, reviewing, and responding to alerts, analyzing logs, incident escalation, and overall day to day security activities) within the Financial Service and Software Service industries.
 
 ## Certifications
 
@@ -25,8 +25,7 @@ ISC^2 Verify Certification or Designation:<br>
 ### SANS 
 
 GIAC Penetration Tester (GPEN)<br>
-
-About the cert:
+About the cert:<br>
 [https://www.giac.org/certification/penetration-tester-gpen](https://www.giac.org/certification/penetration-tester-gpen)
 
 - Obtained: **2015-09-16**<br>
@@ -55,10 +54,8 @@ SANS Certification Validation Lookup:
 ### CompTIA
 
 CompTIA Security +<br>
-
-About the cert:
+About the cert:<br>
 [https://www.comptia.org/certifications/security](https://www.comptia.org/certifications/security)
-
 - CompTIA Security+ (2007 Edition) Exam<br>
 - Date: March 19, 2008<br>
 
