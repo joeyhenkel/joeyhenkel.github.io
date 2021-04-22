@@ -16,8 +16,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joey Henkel 
-Principal Security Engineer / Penetration Tester"
+title                    : "Joey Henkel - Blog"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joey Henkel"
@@ -110,7 +109,7 @@ analytics:
 author:
   name             : "Joey Henkel"
   avatar           : /assets/images/Joey.JPG
-  bio              : "Network & Web Penetration Tester."
+  bio              : "Principal Security Engineer / Penetration Tester."
   location         : # ""
   email            : #email@gmail.com
   links:

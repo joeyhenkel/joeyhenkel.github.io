@@ -7,9 +7,9 @@ published: true
 
 Network & Web Penetration Tester with ten plus years career experience, with roles as a Security Engineer (supporting the architecture designed, day to day health, and subject matter expert for a variety of security soltuions), Security Analyst (configuring, reviewing, and responding to alerts, analyzing logs, incident escalation, and overall day to day security activities) within the Financial Service and Software Service industries.
 
-## Certifications
+### Certifications
 
-ISC^2
+##ISC^2
 
 Certified Information Systems Security Professional (CISSP)
 https://www.isc2.org/Certifications/CISSP
@@ -21,7 +21,7 @@ https://www.isc2.org/MemberVerification
 Last Name: Henkel
 ISC ID Number: 391179
 
-SANS 
+###SANS 
 
 GIAC Penetration Tester (GPEN)
 About the certification:
