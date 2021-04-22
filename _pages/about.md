@@ -11,42 +11,43 @@ Network & Web Penetration Tester with ten plus years career experience, with rol
 
 ### ISC^2
 
-Certified Information Systems Security Professional (CISSP)
-About the cert:
+Certified Information Systems Security Professional (CISSP)<br>
+About the cert:<br>
 [https://www.isc2.org/Certifications/CISSP](https://www.isc2.org/Certifications/CISSP)
 
-ISC^2 Verify Certification or Designation:
+ISC^2 Verify Certification or Designation:<br>
 [https://www.isc2.org/MemberVerification](https://www.isc2.org/MemberVerification)
 
-Last Name: Henkel
-ISC ID Number: 391179
-Awarded: 2013-10-01
+Last Name: **Henkel**<br>
+ISC ID Number: **391179**<br>
+Awarded: **2013-10-01**<br>
 
 ### SANS 
 
-GIAC Penetration Tester (GPEN)
+GIAC Penetration Tester (GPEN)<br>
+
 About the cert:
 [https://www.giac.org/certification/penetration-tester-gpen](https://www.giac.org/certification/penetration-tester-gpen)
 
-Obtained: 2015-09-16
-Expires: 2023-09-30
-Analyst# 9742
+Obtained: **2015-09-16**<br>
+Expires: **2023-09-30**<br>
+Analyst# **9742**<br>
 
-GIAC Web Application Penetration Tester (GWAPT)
-About the cert:
+GIAC Web Application Penetration Tester (GWAPT)<br>
+About the cert:<br>
 [https://www.giac.org/certification/web-application-penetration-tester-gwapt](https://www.giac.org/certification/web-application-penetration-tester-gwapt)
 
-Obtained: 2017-07-19
-Expires: 2021-07-31
-Analyst# 6213
+Obtained: **2017-07-19**<br>
+Expires: **2021-07-31**<br>
+Analyst# **6213**<br>
 
-GIAC Certified Incident Handler (GCIH) 
-About the cert:
+GIAC Certified Incident Handler (GCIH)<br>
+About the cert:<br>
 [https://www.giac.org/certification/certified-incident-handler-gcih](https://www.giac.org/certification/certified-incident-handler-gcih)
 
-Obtained: 2014-05-13
-Expires: 2022-05-31
-Analyst# 23741
+Obtained: **2014-05-13**<br>
+Expires: **2022-05-31**<br>
+Analyst# **23741**<br>
 
 SANS Certification Validation Lookup:
 [https://www.giac.org/certified-professional/joseph-henkel/139860](https://www.giac.org/certified-professional/joseph-henkel/139860)
