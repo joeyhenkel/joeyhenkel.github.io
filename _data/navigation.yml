@@ -4,6 +4,8 @@ main:
     url: /index.html
   - title: "About" #"OSCP Prep"
     url: /about #/oscp-prep
+  - title: "Certs"
+    url: /certifications  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
