@@ -1,12 +1,11 @@
 ---
 layout: single
-title: "Certs"
+title: "Certifications"
 permalink: "/certifications/"
 published: true
 ---
 
 
-## Certifications
 
 ### ISC^2
 
