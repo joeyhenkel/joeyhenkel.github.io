@@ -9,7 +9,7 @@ Network & Web Penetration Tester with ten plus years career experience, with rol
 
 ### Certifications
 
-##ISC^2
+## ISC^2
 
 Certified Information Systems Security Professional (CISSP)
 https://www.isc2.org/Certifications/CISSP
@@ -21,7 +21,7 @@ https://www.isc2.org/MemberVerification
 Last Name: Henkel
 ISC ID Number: 391179
 
-###SANS 
+### SANS 
 
 GIAC Penetration Tester (GPEN)
 About the certification:
@@ -50,6 +50,7 @@ Analyst# 23741
 SANS Certification Validation Lookup:
 https://www.giac.org/certified-professional/joseph-henkel/139860
 
+### CompTIA
 
 CompTIA Security +
 https://www.comptia.org/certifications/security
