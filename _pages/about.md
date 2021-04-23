@@ -6,4 +6,46 @@ author_profile: true
 published: true
 ---
 
-Currently my role is a Network & Web Penetration Tester with ten plus years career experience, with roles as a Security Engineer (supporting the architecture designed, day to day health, and subject matter expert for a variety of security soltuions), Security Analyst (configuring, reviewing, and responding to alerts, analyzing logs, incident escalation, and overall day to day security activities) within the Financial Service and Software Service industries.
+A little bit about me... I have over ten plus years in Information Security, with my current role as Network & Web Penetration Tester conducting assesments against server, application, and cloud infrastructures to identify vulnerabilities, evaluate risks associated with those vulnerabilities, and articulate the impact of those vulnerabilities to the various business represenativies. 
+
+Prior to my role as a dedicated Penetration Tester, I have had various roles as a Security Engineer, Security Anylst, Security Helpdesk Analyst with companies of varying size, all within the Financial Services and Financial Software Services industries. As I have progressed in my career, each of these roles have played a key role in my growth and understanding of Information Technology, Bussiness, and Information Security.
+
+
+Security Engineer (supporting the architecture designed, day to day health, and subject matter expert for a variety of security soltuions) have included supporting the architecture design, day to day health, and being the subject matter expert for a variety of security soltuions. 
+
+Security Analyst (configuring, reviewing, and responding to alerts, analyzing logs, incident escalation, and overall day to day security activities) within the Financial Service and Software Service industries.
+
+Security Helpdesk Analyst ()
+
+Education
+
+Masters Degree<br>
+[Dakota State University] (https://dsu.edu)<br>
+
+Master of Science in Information Assurance (MSIA)<br>
+Specialization in Banking and Financial Security<br>
+2008 – 2010<br>
+
+- Graduate research [paper](https://ieeexplore.ieee.org/document/5482635) featured in global technology conference workshop at FutureTech 2010 in Busan, South Korea, hosted by the Institute of Electrical and Electronics Engineers (IEEE).
+
+Bachelors Degree<br>
+[Dakota State University] (https://dsu.edu)<br>
+Electronic Commerce and Computer Security <br>
+Business Administration, Computer Information Systems, and Computer Networking<br>
+2004 – 2008<br>
+
+Activities and Societies: 
+- Center of Excellence Member 
+- Computer / Information Security Club 
+- Speech Contest
+- ICCP Certified Information Systems Analyst (ISA) Practitioner
+- Tek.Xam General Computing & Internet Concepts tests
+- Government Computer Project (in conjunction with EROS Data Center) 
+- Selected representative for SD Governors Economic Development Conference
+- Selected national finalist for Citibank Technology Leadership Program
+
+Publications:
+
+[Remote Deposit Capture in the Consumer's Hands] (https://ieeexplore.ieee.org/document/5482635)
+IEEE May 21, 2010
+Print ISBN: 978-1-4244-6948-2
