@@ -7,10 +7,10 @@ published: true
 
 
 
-### ISC^2
+# ISC^2
 
 Certified Information Systems Security Professional (CISSP)<br>
-About the cert:<br>
+*About the cert:*<br>
 [https://www.isc2.org/Certifications/CISSP](https://www.isc2.org/Certifications/CISSP)
 
 ISC^2 Verify Certification or Designation:<br>
@@ -20,10 +20,10 @@ ISC^2 Verify Certification or Designation:<br>
 - ISC ID Number: **391179**<br>
 - Awarded: **2013-10-01**<br>
 
-### SANS 
+# SANS 
 
 GIAC Penetration Tester (GPEN)<br>
-About the cert:<br>
+*About the cert:*<br>
 [https://www.giac.org/certification/penetration-tester-gpen](https://www.giac.org/certification/penetration-tester-gpen)
 
 - Obtained: **2015-09-16**<br>
@@ -31,7 +31,7 @@ About the cert:<br>
 - Analyst # **9742**<br>
 
 GIAC Web Application Penetration Tester (GWAPT)<br>
-About the cert:<br>
+*About the cert:*<br>
 [https://www.giac.org/certification/web-application-penetration-tester-gwapt](https://www.giac.org/certification/web-application-penetration-tester-gwapt)
 
 - Obtained: **2017-07-19**<br>
@@ -49,7 +49,7 @@ About the cert:<br>
 SANS Certification Validation Lookup:
 [https://www.giac.org/certified-professional/joseph-henkel/139860](https://www.giac.org/certified-professional/joseph-henkel/139860)
 
-### CompTIA
+# CompTIA
 
 CompTIA Security +<br>
 About the cert:<br>
