@@ -13,11 +13,10 @@ Prior to my role as a Penetration Tester, I have had various roles as a Security
 
 
 Education
---
+---
 
 Masters Degree<br>
 [Dakota State University](https://dsu.edu)<br>
-
 Master of Science in Information Assurance (MSIA)<br>
 Specialization in Banking and Financial Security<br>
 2008 – 2010<br>
@@ -41,7 +40,7 @@ Activities and Societies:
 - Selected national finalist for Citibank Technology Leadership Program
 
 Publications:
---
+---
 [Remote Deposit Capture in the Consumer's Hands] (https://ieeexplore.ieee.org/document/5482635)
 IEEE May 21, 2010
 Print ISBN: 978-1-4244-6948-2
