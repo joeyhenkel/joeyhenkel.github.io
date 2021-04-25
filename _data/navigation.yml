@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Home"
-    url: /index.html
   - title: "About" #"OSCP Prep"
     url: /about #/oscp-prep
   - title: "Certs"

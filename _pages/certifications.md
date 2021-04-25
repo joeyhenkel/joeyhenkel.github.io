@@ -15,7 +15,6 @@ published: true
 
 [ISC^2 Verify Certification or Designation](https://www.isc2.org/MemberVerification) <br>
 
-- Last Name: Henkel<br>
 - ISC ID Number: 391179<br>
 - Awarded: 2013-10-01<br>
 
