@@ -5,8 +5,9 @@ permalink: "/about/"
 author_profile: true
 published: true
 ---
-
-A little bit about me... I have over ten plus years in Information Security, with my current role as Network & Web Penetration Tester conducting assesments against server, application, and cloud infrastructures to identify vulnerabilities, evaluate risks associated with those vulnerabilities, and articulate the impact of those vulnerabilities to the various business represenativies. 
+About me...
+---
+I have over ten plus years in Information Security, with my current role as Network & Web Penetration Tester conducting assesments against server, application, and cloud infrastructures to identify vulnerabilities, evaluate risks associated with those vulnerabilities, and articulate the impact of those vulnerabilities to the various business represenativies. 
 
 Prior to my role as a dedicated Penetration Tester, I have had various roles as a Security Engineer, Security Anylst, Security Helpdesk Analyst with companies of varying size, all within the Financial Services and Financial Software Services industries. As I have progressed in my career, each of these roles have played a key role in my growth and understanding of Information Technology, Bussiness, and Information Security.
 
