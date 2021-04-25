@@ -11,9 +11,9 @@ I have over ten plus years in Information Security, with my current role as Netw
 
 Prior to my role as a Penetration Tester, I have had various roles as a Security Engineer, Security Anylst, Security Helpdesk Analyst with companies of varying size, all within the Financial Services and Financial Software Services industries. 
 
----
-Education
 
+Education
+--
 
 Masters Degree<br>
 [Dakota State University](https://dsu.edu)<br>
@@ -41,7 +41,7 @@ Activities and Societies:
 - Selected national finalist for Citibank Technology Leadership Program
 
 Publications:
-
+--
 [Remote Deposit Capture in the Consumer's Hands] (https://ieeexplore.ieee.org/document/5482635)
 IEEE May 21, 2010
 Print ISBN: 978-1-4244-6948-2
