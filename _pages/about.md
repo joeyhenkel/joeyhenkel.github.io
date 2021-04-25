@@ -11,6 +11,7 @@ About me...
 
 Prior to my role as a Penetration Tester, I have had various roles as a Security Engineer, Security Anylst, Security Helpdesk Analyst with companies of varying size, all within the Financial Services and Financial Software Services industries. 
 
+See [my LinkedIn](https://www.linkedin.com/in/josephhenkel/) for more details and specifics.
 
 Education
 ---
