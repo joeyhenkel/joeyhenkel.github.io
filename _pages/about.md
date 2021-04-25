@@ -13,7 +13,7 @@ Prior to my role as a Penetration Tester, I have had various roles as a Security
 
 ---
 Education
----
+
 
 Masters Degree<br>
 [Dakota State University](https://dsu.edu)<br>
