@@ -110,9 +110,12 @@ author:
   name             : "Joey Henkel"
   avatar           : /assets/images/Joey.JPG
   bio              : "Principal Security Engineer / Penetration Tester."
-  location         : # ""
+  location         : "United States"
   email            : #email@gmail.com
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/josephhenkel/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:email@gmail.com
@@ -134,9 +137,6 @@ author:
     - label: "Hack The Box"
       icon: "fas fa-cube"
       url: "https://www.hackthebox.eu/home/users/profile/xxxx"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/josephhenkel/"
 
 # Site Footer
 footer:

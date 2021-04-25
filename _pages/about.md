@@ -17,17 +17,18 @@ Education
 
 Masters Degree<br>
 [Dakota State University](https://dsu.edu)<br>
+2008 – 2010<br>
 Master of Science in Information Assurance (MSIA)<br>
 Specialization in Banking and Financial Security<br>
-2008 – 2010<br>
 
 - Graduate research [paper](https://ieeexplore.ieee.org/document/5482635) featured in global technology conference workshop at FutureTech 2010 in Busan, South Korea, hosted by the Institute of Electrical and Electronics Engineers (IEEE).
 
 Bachelors Degree<br>
 [Dakota State University](https://dsu.edu)<br>
+2004 – 2008<br>
 Electronic Commerce and Computer Security <br>
 Business Administration, Computer Information Systems, and Computer Networking<br>
-2004 – 2008<br>
+
 
 Activities and Societies: 
 - Center of Excellence Member 
