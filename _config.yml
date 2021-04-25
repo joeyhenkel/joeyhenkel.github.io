@@ -136,7 +136,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Hack The Box"
       icon: "fas fa-cube"
-      url: "https://www.hackthebox.eu/home/users/profile/35434"
+      url: "https://app.hackthebox.eu/profile/35434"
 
 # Site Footer
 footer:
@@ -146,7 +146,7 @@ footer:
       url: "https://www.linkedin.com/in/josephhenkel/"
     - label: "Hack The Box"
       icon: "fas fa-cube"
-      url: "https://www.hackthebox.eu/home/users/profile/35434"
+      url: "https://app.hackthebox.eu/profile/35434"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/joey_henkel"
