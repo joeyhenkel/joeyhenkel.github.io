@@ -40,6 +40,6 @@ Degree - Electronic Commerce and Computer Security <br>
 
 Publication:
 ---
-[Remote Deposit Capture in the Consumer's Hands](https://ieeexplore.ieee.org/document/5482635)
-IEEE May 21, 2010
-Print ISBN: 978-1-4244-6948-2
+[Remote Deposit Capture in the Consumer's Hands](https://ieeexplore.ieee.org/document/5482635)<br>
+IEEE May 21, 2010<br>
+Print ISBN: 978-1-4244-6948-2<br>
