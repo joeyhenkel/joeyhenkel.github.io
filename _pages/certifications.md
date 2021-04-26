@@ -9,7 +9,7 @@ published: true
 
 
 # ISC^2
-
+---
 [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP) <br>
 
 
@@ -19,7 +19,7 @@ published: true
 - Awarded: 2013-10-01<br>
 
 # SANS 
-
+---
 [GIAC Penetration Tester (GPEN)](https://www.giac.org/certification/penetration-tester-gpen) <br>
 
 - Obtained: 2015-09-16<br>
@@ -42,7 +42,7 @@ published: true
 
 
 # CompTIA
-
+---
 [CompTIA Security +](https://www.comptia.org/certifications/security) <br>
 
 - CompTIA Security+ (2007 Edition) Exam<br>
