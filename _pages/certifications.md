@@ -8,7 +8,7 @@ published: true
 
 
 <br>
-# ISC^2
+ISC^2
 ---
 [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP) <br>
 
@@ -19,7 +19,7 @@ published: true
 - Awarded: 2013-10-01<br>
 
 <br>
-# SANS 
+SANS 
 ---
 [GIAC Penetration Tester (GPEN)](https://www.giac.org/certification/penetration-tester-gpen) <br>
 
@@ -42,7 +42,7 @@ published: true
 [SANS Certification Validation Lookup](https://www.giac.org/certified-professional/joseph-henkel/139860) <br>
 
 <br>
-# CompTIA
+CompTIA
 ---
 [CompTIA Security +](https://www.comptia.org/certifications/security) <br>
 
