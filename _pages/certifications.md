@@ -22,19 +22,19 @@ ISC^2
 SANS 
 ---
 
-GIAC Penetration Tester [(GPEN)](https://www.giac.org/certification/penetration-tester-gpen) <br>
+[GIAC Penetration Tester (GPEN)](https://www.giac.org/certification/penetration-tester-gpen) <br>
 
 - Obtained: 2015-09-16<br>
 - Expires: 2023-09-30<br>
 - Analyst # 9742<br>
 
-GIAC Web Application Penetration Tester [(GWAPT)](https://www.giac.org/certification/web-application-penetration-tester-gwapt) <br>
+[GIAC Web Application Penetration Tester (GWAPT)](https://www.giac.org/certification/web-application-penetration-tester-gwapt) <br>
 
 - Obtained: 2017-07-19<br>
 - Expires: 2021-07-31<br>
 - Analyst # 6213<br>
 
-GIAC Certified Incident Handler [(GCIH)](https://www.giac.org/certification/certified-incident-handler-gcih) <br>
+[GIAC Certified Incident Handler (GCIH)](https://www.giac.org/certification/certified-incident-handler-gcih) <br>
 
 - Obtained: 2014-05-13<br>
 - Expires: 2022-05-31<br>
