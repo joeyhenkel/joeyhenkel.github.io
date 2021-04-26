@@ -21,7 +21,6 @@ ISC^2
 <br>
 SANS 
 ---
-
 [GIAC Penetration Tester (GPEN)](https://www.giac.org/certification/penetration-tester-gpen) <br>
 
 - Obtained: 2015-09-16<br>
