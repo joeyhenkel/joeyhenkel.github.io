@@ -7,7 +7,7 @@ published: true
 ---
 
 
-<br>
+
 ISC^2
 ---
 [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP) <br>
@@ -18,7 +18,7 @@ ISC^2
 - ISC ID Number: 391179<br>
 - Awarded: 2013-10-01<br>
 
-<br>
+
 SANS 
 ---
 
@@ -42,7 +42,7 @@ SANS
 
 [SANS Certification Validation Lookup](https://www.giac.org/certified-professional/joseph-henkel/139860) <br>
 
-<br>
+
 CompTIA
 ---
 [CompTIA Security +](https://www.comptia.org/certifications/security) <br>
