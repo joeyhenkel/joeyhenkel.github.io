@@ -16,18 +16,18 @@ See my [LinkedIn](https://www.linkedin.com/in/josephhenkel/).
 Education
 ---
 
-Masters Degree<br>
+**Masters Degree** <br>
 [Dakota State University](https://dsu.edu)<br>
 2008 – 2010<br>
 Degree - Master of Science in Information Assurance (MSIA)<br>
 - Specialization in Banking and Financial Security<br>
 - Graduate research [paper](https://ieeexplore.ieee.org/document/5482635) featured in global technology conference workshop at FutureTech 2010 in Busan, South Korea, hosted by the Institute of Electrical and Electronics Engineers (IEEE).
 
-Bachelors Degree<br>
+**Bachelors Degree** <br>
 [Dakota State University](https://dsu.edu)<br>
 2004 – 2008<br>
 Degree - Electronic Commerce and Computer Security <br>
-*(including Business Administration, Computer Information Systems, and Computer Networking)*<br>
+*(Business Administration, Computer Information Systems, and Computer Networking)*<br>
 
 - Center of Excellence Member 
 - Computer / Information Security Club 
@@ -41,5 +41,6 @@ Degree - Electronic Commerce and Computer Security <br>
 Publication:
 ---
 [Remote Deposit Capture in the Consumer's Hands](https://ieeexplore.ieee.org/document/5482635)<br>
+Paper and research presented at FutureTech 2010 in Busan, South Korea.
 IEEE May 21, 2010<br>
 Print ISBN: 978-1-4244-6948-2<br>
