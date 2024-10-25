@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and # it will show up on this page.
-# {: .prompt-tip }
 
 About me...
 ---
@@ -17,6 +15,9 @@ Professional Experience
 ---
 
 [U.S. Bank](https://www.usbank.com)<br>
+*December 2019 - Present*
+
+**Principal Security Engineer (Penetration Tester)**
 *December 2019 - Present*
 - Conducting infrastructure, web application, and software penetration tests of U.S. Bank systems and software.
 - Writing reports on penetration test findings including recommendations on prioritizing, executing, and conducting remediation.
@@ -110,3 +111,6 @@ IEEE May 21, 2010<br>
 Print ISBN: 978-1-4244-6948-2<br>
 
 My [LinkedIn](https://www.linkedin.com/in/josephhenkel/) profile.
+
+ > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and  it will show up on this page.
+{: .prompt-tip }
