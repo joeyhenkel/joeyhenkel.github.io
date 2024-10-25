@@ -112,5 +112,5 @@ Print ISBN: 978-1-4244-6948-2<br>
 
 My [LinkedIn](https://www.linkedin.com/in/josephhenkel/) profile.
 
- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and  it will show up on this page.
+ Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and  it will show up on this page.
 {: .prompt-tip }
