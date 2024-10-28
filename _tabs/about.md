@@ -5,7 +5,6 @@ order: 4
 ---
 
 
-About me...
 ---
 Experienced cybersecurity professional with a strong background in penetration testing and information security. With over 15 years of experience in the field, I have honed my skills and expertise while working with various reputable organizations. My career journey showcases my commitment to safeguarding sensitive data and systems from evolving threats. 
 
