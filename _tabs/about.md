@@ -18,8 +18,8 @@ Professional Experience
 
 **Principal Security Engineer (Penetration Tester)**
 *December 2019 - Present*
-- Conducting infrastructure, web application, and software penetration tests of U.S. Bank systems and software.
-- Writing reports on penetration test findings including recommendations on prioritizing, executing, and conducting remediation.
+- Conducting infrastructure, web application, mobile, and software penetration tests of U.S. Bank systems and software.
+- Writing reports on penetration test findings with recommendations on prioritizing, executing, and conducting remediation.
 - Conducting report out / wrap-up meetings with respective business representatives.
 
 [Meta Payment Systems (now Pathward)](https://www.pathward.com)<br>
