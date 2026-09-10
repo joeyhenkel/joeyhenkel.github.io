@@ -1,9 +1,7 @@
 ---
-layout: single
-title: "Certifications"
-permalink: "/certifications/"
-author_profile: true
-published: true
+layout: categories
+icon: fas fa-stream
+order: 2
 ---
 
 

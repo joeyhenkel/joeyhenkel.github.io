@@ -16,7 +16,7 @@ timezone:
 
 title: Joey Henkel # the main title
 
-tagline: Personal Cyber Security Blog# it will display as the subtitle
+tagline: Personal Cyber Security Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A personal blog to articulate my work and interests in Cyber Security.
