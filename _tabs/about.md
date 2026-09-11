@@ -6,7 +6,7 @@ order: 1
 
 About me...
 ---
-I am an experienced cybersecurity professional with a strong background in penetration testing and information security. With over 15 years of experience in the field, I have honed my skills and expertise while working with various reputable organizations. My career journey showcases my commitment to safeguarding sensitive data and systems from evolving threats. 
+I'm an experienced cybersecurity professional with a strong background in penetration testing and information security. With over 15 years of experience in the field, I have honed my skills and expertise while working with various reputable organizations. My career journey showcases my commitment to safeguarding sensitive data and systems from evolving threats. 
 
 Prior to my role as a Penetration Tester, I have had various roles as a Security Engineer, Security Analyst, Security Helpdesk Analyst with companies of varying size, all within the Financial Services and Financial Software Services industries. 
 
