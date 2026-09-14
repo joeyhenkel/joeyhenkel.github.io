@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -o /dev/null -w \"HTTP Status: %{http_code}\\\\n\" https://joeyhenkel.github.io)",
+      "Read(//Users/josephhankel/Documents/blog/joeyhenkel.github.io/.github/workflows/**)",
+      "Bash(git commit -m 'Remove old Jekyll workflow - using Astro with GitHub Actions instead *)"
+    ]
+  }
+}
