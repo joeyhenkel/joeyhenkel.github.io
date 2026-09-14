@@ -1,39 +1,131 @@
-# Chirpy Starter
+# Joey Henkel's Blog
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+A minimalist, fast, and clean technical blog built with [Astro](https://astro.build), deployed to GitHub Pages.
 
-A minimal, ready-to-use template for creating a blog with the [**Chirpy**][chirpy] Jekyll theme. Get up and running in minutes with all critical files pre-configured.
+## Features
 
-## Why This Starter Exists
+- 🚀 **Fast & Minimal** — Built with Astro for blazing-fast performance
+- 🌓 **Dark Mode** — Automatic dark mode support with system preference detection
+- 📱 **Responsive** — Looks great on all devices
+- 📝 **Markdown Posts** — Write content in simple Markdown
+- 🔍 **Search Ready** — Configured for Pagefind search integration
+- 📊 **Analytics** — Google Analytics integration ready
+- 🔄 **Auto Deploy** — GitHub Actions automatically deploys on push to main
 
-When installing Chirpy through [RubyGems.org][gem], Jekyll can only read a subset of theme files (`_data`, `_layouts`, `_includes`, `_sass`, `assets`) and limited `_config.yml` options from the gem. As a result, users cannot enjoy the full out-of-the-box experience that Chirpy offers.
+## Getting Started
 
-To unlock all features, the following files must be present in your Jekyll site:
+### Local Development
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+# Visit http://localhost:3000
 ```
 
-This starter bundles those files from the latest **Chirpy** release along with a [CD][CD] workflow, so you can start writing immediately.
+### Building & Deployment
 
-## Usage
+```bash
+# Build for production
+npm run build
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+# Preview production build locally
+npm run preview
+```
 
-## Contributing
+Push to `main` branch and GitHub Actions automatically deploys!
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+## Managing Content
 
-## License
+### Writing Blog Posts
 
-This work is published under [MIT][mit] License.
+Create new `.md` files in `src/content/blog/`:
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+```markdown
+---
+title: "Your Post Title"
+description: "Brief description for SEO"
+pubDate: "Sep 14 2026"
+---
+
+Your content here in Markdown...
+```
+
+### Key Pages
+
+- **About** — `src/pages/about.astro` — Professional background
+- **Certifications** — `src/pages/certifications.astro` — Credentials
+- **Home** — `src/pages/index.astro` — Landing page
+
+### Site Config
+
+Edit `src/consts.ts` for site title and description.
+
+## Configuration
+
+### Google Analytics
+
+Update tracking ID in `src/components/BaseHead.astro` (replace `G-XXXXXXXXXX` with your ID).
+
+### Styles
+
+Global styles in `src/styles/global.css` use CSS variables that adapt to dark/light mode automatically.
+
+## Project Structure
+
+```
+src/
+├── components/     # Header, Footer, etc.
+├── content/blog/   # Your blog posts
+├── layouts/        # Page layouts
+├── pages/          # Site pages
+├── styles/         # Global styles
+└── consts.ts       # Site config
+```
+
+## Publishing Workflow
+
+1. Write post in `src/content/blog/`
+2. Test locally: `npm run dev`
+3. Commit: `git add . && git commit -m "Add new post"`
+4. Push: `git push origin main`
+5. GitHub Actions deploys automatically (1-2 minutes)
+6. Visit https://joeyhenkel.github.io
+
+## Useful Markdown Tips
+
+```markdown
+# Heading 1
+## Heading 2
+
+**Bold text** and *italic text*
+
+- Bullet list
+- Another item
+
+1. Numbered list
+2. Second item
+
+[Link text](https://example.com)
+
+> Quote or callout
+
+\`\`\`javascript
+// Code block
+const x = 42;
+\`\`\`
+```
+
+## Troubleshooting
+
+- **Build fails?** Run `npm install` and check Node version (22+)
+- **Changes not showing?** Make sure you pushed to `main` branch
+- **Clear cache** with Cmd+Shift+R or Ctrl+Shift+R
+
+## Learn More
+
+- [Astro Docs](https://docs.astro.build)
+- [Markdown Guide](https://www.markdownguide.org)
+- [GitHub Pages Docs](https://docs.github.com/en/pages)
